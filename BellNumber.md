@@ -63,7 +63,7 @@ Bell Number: 5
 
 # Application to CoinJoin
 
-Given a transaction with 100 inputs, assuming brute forcing, one would need to iterate through Bell Number for 100 elements number of partitions in order to find valid partitions. The Bell Number of 100 elements is `47585391276764833658790768841387207826363669686825611466616334637559114497892442622672724044217756306953557882560751`.
+Given a transaction with 100 inputs, assuming brute forcing, one would need to iterate through Bell Number of 100 elements number of partitions in order to find valid partitions. The Bell Number of 100 elements is `47585391276764833658790768841387207826363669686825611466616334637559114497892442622672724044217756306953557882560751`.
 
 # References
 
