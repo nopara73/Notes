@@ -25,7 +25,7 @@ Take the positive numbers as inputs and the negative numbers as outputs. Disrega
 21,12,36,28.1,-25,-8,-50,-14.1
 ```
 
-If we find a valid subset: `21,12,-25,-8`, then the remaining set is also a valid subset: `36,28.1,-50,-14.1`, but also we can also find valid subsets in the remeaning set too.  
+If we find a valid subset: `21,12,-25,-8`, then the remaining set is also a valid subset: `36,28.1,-50,-14.1`, but we can also find valid subsets in the remeaning set too.  
 
 With an optimized algorithm Knapsack paper assumes the complexity of the best cast scenario can not be lower than exponential: `O((2^n)∗m)`, where `m` is the time it takes to solve the subset sum problem for
 each set.[2]
