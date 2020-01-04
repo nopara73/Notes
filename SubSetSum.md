@@ -30,8 +30,6 @@ If we find a valid subset: `21,12,-25,-8`, then the remaining set is also a vali
 With an optimized algorithm Knapsack paper assumes the complexity of the best cast scenario can not be lower than exponential: `O((2^n)∗m)`, where `m` is the time it takes to solve the subset sum problem for
 each set.[2]
 
-```
-
 # References
 
 - [1] https://en.wikipedia.org/wiki/Subset_sum_problem
